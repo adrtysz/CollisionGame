@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/background.jpg","C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",61551,2438629,0,3767989
+"C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/character.png","C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/bin/DesktopGL/character.xnb","TextureProcessor","Texture2DContent",14070,40485,0,0080082
+"C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/enemy.png","C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/bin/DesktopGL/enemy.xnb","TextureProcessor","Texture2DContent",16386,59685,0,0060043
+"C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/font.spritefont","C:/Users/Adżi/source/repos/adrtysz/MonogameGame/Game1/Game1/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2005,70673,0,3178853
